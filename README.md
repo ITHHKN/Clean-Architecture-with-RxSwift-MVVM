@@ -12,9 +12,9 @@ RxSwift is the reactive programming library for iOS. It makes it easy to program
 
 # Downsides :
 
-* Learning Process Can Be Quite Intimidating At The Beginning — No Single Article Can Teach You RxSwift
-* Memory Management Issues — Easy To Create Memory Leaks If You Are Not Careful With Self References Inside Closures
-* Debugging Could Be Hard Too Considering That Stack Traces Are A Lot Bigger
+* Learning Process Can Be Quite Intimidating at the beginning — No single article can teach you RxSwift
+* Memory Management Issues — Easy to create memory leaks if you are not careful with self references inside closures
+* Debugging could be hard too considering that stack traces are a lot bigger
 
 # Final Words :
 
